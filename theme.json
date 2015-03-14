@@ -1,0 +1,9 @@
+{
+    "id": "nodebb-theme-capitol",
+    "name": "Capitol Theme for NodeBB",
+    "description": "A simple theme for NodeBB created for DCShows.net",
+    "url": "none",
+    "screenshot": null,
+    "templates": "templates",
+    "staticDir": "static"
+}
